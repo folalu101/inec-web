@@ -24,7 +24,7 @@
     height: 100%;
     width: 10%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 19px;
+    font-size: 16px;
     text-transform: uppercase;
     color: black;
 }
@@ -37,5 +37,22 @@
 img {
   max-width: 100%;
   height: auto;
-
+}
+.row {
+    background-color: green;
+    background-size: cover;
+    padding: 7px;
+}
+button{
+    float: initial;
+}
+.butt-1 {
+    text-align: center;
+    border: 5px;
+    border-radius: 7px;
+    border-width: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    
 }
