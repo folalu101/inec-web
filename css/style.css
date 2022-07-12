@@ -45,14 +45,24 @@ img {
 }
 button{
     float: initial;
-}
-.butt-1 {
-    text-align: center;
+    background-color: green;
     border: 5px;
     border-radius: 7px;
     border-width: 7px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     font-style: italic;
-    
+}
+.butt-1 {
+    text-align: center;
+}
+button:hover {
+    background-color: blanchedalmond;
+    border: 7px;
+    border-radius: 9px;
+    border-width: 9px;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+    color: forestgreen;
+    border-style: outset;
+    font-weight: bold;
 }
