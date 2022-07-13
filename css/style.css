@@ -82,3 +82,7 @@ button:hover {
     font-style: oblique;
     font-weight: bold;
 }
+form {
+    color: white;
+    font-size: medium;
+}
