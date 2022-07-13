@@ -147,6 +147,7 @@ a:link {
     line-height: 10px;
 }
 #register-voter {
+    display: none;
     background-color: white;
     border: 5px;
     border-style: solid;
@@ -155,5 +156,6 @@ a:link {
     border-radius: 12px;
     margin: 20px;
 }
+
   
   
