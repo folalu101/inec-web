@@ -113,7 +113,27 @@ a:link {
     font-weight: 700;
     color: white;
 }
-  
- 
+.side-info {
+    background-color: green;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 15px;
+    font-weight: 600;
+    opacity: 0.8;
+    display: block;
+    transition: opacity 0.24s ease-in-out;
+    box-shadow: 0 0 20px green;
+}
+.head-part {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'arvo';
+    font-size: ex-larger;
+    font-weight: bold;
+    margin-bottom: 20px;
+   
+}
+
   
   
