@@ -90,3 +90,11 @@ form {
 .form-control {
     text-align: center;
 }
+.my-foot {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    background-size: cover;
+}
