@@ -17,7 +17,8 @@ $(document).ready(function() {
         if( dob < 18 ){
             window.location.href ="apology.html";
         }
-        else ( dob === 18 || dob > 18 );{
+        else ( dob === 18 || dob > 18 );
+        {
             window.location.href = "election.html";
         }
 
