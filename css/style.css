@@ -134,6 +134,26 @@ a:link {
     margin-bottom: 20px;
    
 }
-
+.voter-head {
+    text-align: center;
+    background-color: green;
+    padding: 15px;
+}
+.voter-logo {
+    position: absolute;
+}
+.inec-add {
+    float: right;
+    line-height: 10px;
+}
+#register-voter {
+    background-color: white;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    padding: 30px;
+    border-radius: 12px;
+    margin: 20px;
+}
   
   
