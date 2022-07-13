@@ -103,8 +103,18 @@ a:link {
     background-color: transparent;
     text-decoration: none;
   }
-  
-  
+.flag-p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 700;
+    color: white;
+}
   
  
   
